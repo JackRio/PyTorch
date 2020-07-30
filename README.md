@@ -1,5 +1,5 @@
 # PyTorch
-Notes and some deep learning model implementation using PyTorch.
+Notes and code implementation for PyTorch
 
 PyTorch Repo: https://github.com/pytorch
 
