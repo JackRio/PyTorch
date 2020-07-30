@@ -6,7 +6,7 @@
   - Step 2. Install appropriate PyTorch version: https://pytorch.org/get-started/locally/#start-locally
   - Step 3. GO WILD
   
-Notes and code implementation for PyTorch
+Here are some usefull resources for getting started and references.
 
 PyTorch Repo: https://github.com/pytorch
 
